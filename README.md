@@ -100,7 +100,6 @@ Gerenciamento de Discos Virtuais:
    qemu-img resize <caminho_para_a_imagem> <novo_tamanho>
 ```
 
-## V2
 
 ```markdown
 # Comandos para Gerenciamento do LIBVIRT por Linha de Comando
