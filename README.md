@@ -1,4 +1,4 @@
-Claro, aqui está a lista organizada por categoria para o gerenciamento do LIBVIRT por linha de comando:
+## Gerenciamento LIBVIRT por linha de comando
 
 ### Domain Management:
 1. Criar uma nova máquina virtual:
@@ -235,5 +235,3 @@ Claro, aqui está a lista organizada por categoria para o gerenciamento do LIBVI
    ```
    virsh vol-clone --pool mypool myvolume.qcow2 myclonedvolume.qcow2
    ```
-
-Espero que esta lista seja útil para você!
